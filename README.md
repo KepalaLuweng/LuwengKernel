@@ -37,11 +37,11 @@ Want to inspect all available features in your current LuwengKernel build?
 Use the **LuwengKernelCheck** script!
 
 ### 📖 How to use:
-1. Download the file: `LuwengKernelCheck.sh`
+1. Download the file: `LuwengCheckKernel.sh`
 2. Move it to your internal storage: `/sdcard/`
 3. Open Termux and run the command:
    ```bash
-   sh /sdcard/LuwengKernelCheck.sh
+   sh /sdcard/LuwengCheckKernel.sh
 
 4. The output will be saved automatically to /sdcard/LuwengCheckKernelInfo.txt
 
