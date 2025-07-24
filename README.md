@@ -31,11 +31,6 @@
 
 ---
 
-## 📥 Download
-> 🔗 **[github.com/KepalaLuweng/LuwengKernel/release]**
-
----
-
 ## 🔧 Feature Checker Script
 
 Want to inspect all available features in your current LuwengKernel build?  
