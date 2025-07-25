@@ -9,14 +9,14 @@
 - **Device:** Realme MT6785 Series (Helio G90T / G95)
 - **Kernel Version:** 4.14.336
 - **Codebase:** PixelOS
-- **Toolchain:** Proton Clang
-- **Build Type:** Full LTO (Link Time Optimization)
+- **Toolchain:** Aosp Clang
+- **Build Type:** Thin LTO (Link Time Optimization)
 
 ---
 
 ## 📝 Changelog
 - ✨ **Initial build release**
-- ⚡ Compiled with **Proton Clang** + **Full LTO** for maximum runtime efficiency
+- ⚡ Compiled with **Aosp Latest Clang** + **Thin LTO** for maximum runtime efficiency
 - 🚀 Default CPU governor set to **Schedutil** for a balance of performance and battery life
 - 🌐 Switched **TCP Congestion Control** to **BBR** for better network responsiveness
 - 💨 Increased **timer frequency** to **300Hz** for a smoother UI experience
@@ -51,6 +51,8 @@ Use the **LuwengKernelCheck** script!
 ---
 
 🙏 Special Thanks To:
+
+Kardebayan
 
 The PixelOS Team
 
